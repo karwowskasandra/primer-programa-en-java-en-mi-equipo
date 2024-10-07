@@ -1,9 +1,9 @@
-  Public class Prueba{
+  public class Prueba {
 
-     public static void main(String args[]) {
-
-        System.out.println("karwowska");
-
-     }
- 
-  }
+      public static void main(String args[]) {
+         
+         System.out.println("Karwowska");
+       
+      }
+	
+   } 
